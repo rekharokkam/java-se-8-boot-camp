@@ -1,0 +1,8 @@
+How Data is being Organized in memory managed by JVM
+
+Memory is organized as Stack and Heap.
+
+Heap - is the large portion of memory where all the Objects live.
+Stack - short term piece of memory where we have reference variables, .... Stack is where all the object reference pertaining to a specific scope is stored.
+
+ 
